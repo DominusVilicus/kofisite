@@ -1,0 +1,31 @@
+.client-logo{
+    img {
+        max-height: 100px;
+        padding: 5px 10px;
+        @media (max-width: $tablet) {
+            max-height: 80px;
+        }
+    }
+}
+
+.wp-block-yoast-faq-block {
+    .schema-faq-section {
+        padding-top: 1em;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+        padding-left: 15px;
+        padding-right: 15px;
+        display: block;
+        &:first-child {
+            padding-top: 10px;
+        }
+        &:last-child {
+            border-bottom: 0;
+        }
+        .schema-faq-question {
+            display: block;
+        }
+        .schema-faq-answer {
+            padding-left: 15px;
+        }
+    }
+}
