@@ -23,6 +23,10 @@
         font-family: "Source Sans Pro";
         background: white;
         box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+        h2 {
+            font-weight: 600;
+            color: #13a;
+        }
         &.max{
             margin: 0;
             max-width: none;
