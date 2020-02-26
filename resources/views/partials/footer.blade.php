@@ -59,7 +59,7 @@
         </p>
         <br>
         <p>
-          <a href="https://marketingx.com.au">Web Design by MarketingX</a>
+          <a href="https://insanemarketing.com.au">Web Design & SEO by Insane Marketing</a>
         </p>
       </div>
     </div>
